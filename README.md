@@ -7,8 +7,8 @@ I'm interested in IoT, Robotics, Machine Learning and Deep Learning. i'm still l
 - [Bike-Alarm-System](https://github.com/YuxuanHan0326/bike-alarm-system)
 
 How to reach me:
-- Via Email: (yuxuan.han.22@ucl.ac.uk)
-- LinkedIn: (www.linkedin.com/in/yuxuanhan)
+- Via Email (Preferred): yuxuan.han.22@ucl.ac.uk
+- LinkedIn: www.linkedin.com/in/yuxuanhan
 <!---
 YuxuanHan0326/YuxuanHan0326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
