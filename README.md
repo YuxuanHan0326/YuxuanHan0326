@@ -1,6 +1,6 @@
 Hi, I'm Yuxuan Han 
 
-I'm currently an MSc student in Analogue and Digital Integrated Circuit Design at Imperial College London, with interest in hardware AI acceleration. I otained my BEng degree in UCL EEE. I used to be the Workshop Manager of [UCL Fleming Society](https://github.com/Fleming-Society).
+I'm currently an MSc student in Analogue and Digital Integrated Circuit Design at Imperial College London, with interest in hardware AI acceleration. I obtained my BEng degree in UCL EEE. I used to be the Workshop Manager of [UCL Fleming Society](https://github.com/Fleming-Society).
 
 How to reach me:
 - Via Email (Preferred): yuxuan.han25@imperial.ac.uk
